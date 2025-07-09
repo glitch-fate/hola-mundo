@@ -1,2 +1,2 @@
-## Ejercicios
-Este es un proyecto simple que incluye varios ejercicios de Python
+## Examen
+Acá subi mi examen y hay otros archivos que debo borrar
